@@ -1,0 +1,15 @@
+/workspaces/Aulas-OlaMundo/OlaMundo/bin/Debug/net7.0/OlaMundo
+/workspaces/Aulas-OlaMundo/OlaMundo/bin/Debug/net7.0/OlaMundo.deps.json
+/workspaces/Aulas-OlaMundo/OlaMundo/bin/Debug/net7.0/OlaMundo.runtimeconfig.json
+/workspaces/Aulas-OlaMundo/OlaMundo/bin/Debug/net7.0/OlaMundo.dll
+/workspaces/Aulas-OlaMundo/OlaMundo/bin/Debug/net7.0/OlaMundo.pdb
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.csproj.AssemblyReference.cache
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfoInputs.cache
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.AssemblyInfo.cs
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.csproj.CoreCompileInputs.cache
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.dll
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/refint/OlaMundo.dll
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.pdb
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/OlaMundo.genruntimeconfig.cache
+/workspaces/Aulas-OlaMundo/OlaMundo/obj/Debug/net7.0/ref/OlaMundo.dll
